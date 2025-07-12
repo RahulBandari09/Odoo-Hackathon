@@ -20,6 +20,7 @@ Features:
 - The user is also able to delete the swap request if it is not accepted.
 
 **Admin Role**
+
 ● Reject inappropriate or spammy skill descriptions.
 ● Ban users who violate platform policies.
 ● Monitor pending, accepted, or cancelled swaps.
